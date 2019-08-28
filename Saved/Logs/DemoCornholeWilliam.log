@@ -740,3 +740,673 @@ Exception rethrown at [0]:
 [2019.08.28-21.33.59:967][744]LogSavePackage: Save=56.82ms
 [2019.08.28-21.33.59:967][744]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/Grass_D1BF665CD41907ACF9DA290B767BF8084.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_D.uasset'
 [2019.08.28-21.33.59:973][744]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_D.uasset
+[2019.08.28-21.42.55:360][961]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2019.08.28-21.42.55:371][961]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.42.55:653][961]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.42.55:727][961]LogSlate: Took 0.021194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.28-21.42.57:630][ 24]MaterialEditorStats: Base pass shader: 124 instructions
+[2019.08.28-21.42.57:631][ 24]MaterialEditorStats: Vertex shader: 85 instructions
+[2019.08.28-21.42.57:631][ 24]MaterialEditorStats: Texture samplers: 1/16
+[2019.08.28-21.43.43:349][138]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.43.43:362][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.28-21.43.45:210][297]MaterialEditorStats: Base pass shader: 124 instructions
+[2019.08.28-21.43.45:210][297]MaterialEditorStats: Vertex shader: 85 instructions
+[2019.08.28-21.43.45:210][297]MaterialEditorStats: Texture samplers: 1/16
+[2019.08.28-21.43.50:449][801]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.43.50:472][801]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.28-21.43.51:890][916]MaterialEditorStats: Base pass shader: 124 instructions
+[2019.08.28-21.43.51:890][916]MaterialEditorStats: Vertex shader: 85 instructions
+[2019.08.28-21.43.51:890][916]MaterialEditorStats: Texture samplers: 1/16
+[2019.08.28-21.44.00:824][954]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.44.00:836][954]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.44.02:081][ 59]MaterialEditorStats: Base pass shader: 124 instructions
+[2019.08.28-21.44.02:082][ 59]MaterialEditorStats: Vertex shader: 85 instructions
+[2019.08.28-21.44.02:082][ 59]MaterialEditorStats: Texture samplers: 1/16
+[2019.08.28-21.44.08:403][773]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.44.08:424][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.44.09:765][887]MaterialEditorStats: Base pass shader: 124 instructions
+[2019.08.28-21.44.09:765][887]MaterialEditorStats: Vertex shader: 85 instructions
+[2019.08.28-21.44.09:765][887]MaterialEditorStats: Texture samplers: 1/16
+[2019.08.28-21.44.39:875][394]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.44.39:892][394]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.28-21.44.41:913][566]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.44.41:913][566]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.44.41:914][566]MaterialEditorStats: Texture samplers: 2/16
+[2019.08.28-21.44.41:914][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.44.44:865][914]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.44.44:883][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.44.46:252][ 27]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.08.28-21.44.46:252][ 27]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.44.46:252][ 27]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.28-21.44.46:252][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.45.02:719][961]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.45.04:013][ 72]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.45.04:013][ 72]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.45.04:013][ 72]MaterialEditorStats: Texture samplers: 2/16
+[2019.08.28-21.45.04:013][ 72]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.45.08:132][558]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.45.08:147][558]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.45.09:661][672]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.08.28-21.45.09:661][672]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.45.09:661][672]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.28-21.45.09:661][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.45.25:458][555]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.45.26:764][668]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.08.28-21.45.26:765][668]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.45.26:765][668]MaterialEditorStats: Texture samplers: 3/16
+[2019.08.28-21.45.26:765][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.45.48:365][154]LogMaterialEditor: Saving and Compiling material GrassMat
+[2019.08.28-21.45.51:235][154]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.45.51:293][154]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.45.51:319][154]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.45.51:365][154]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GrassMat, compiling. 
+[2019.08.28-21.45.52:822][154]TextureStreamingBuild: Display: Compiling optional shaders took 1.466 seconds.
+[2019.08.28-21.45.55:105][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MadeContent/Textures/GrassMat" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset" SILENT=true
+[2019.08.28-21.45.55:132][154]LogSavePackage: Save=24.14ms
+[2019.08.28-21.45.55:132][154]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/GrassMat97DB014442BD3587E3A32CA7B22EC425.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset'
+[2019.08.28-21.45.55:138][154]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset
+[2019.08.28-21.45.55:161][154]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.08.28-21.45.55:161][154]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.45.55:161][154]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.45.55:161][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.46.08:880][558]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.08.28-21.46.15:263][143]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.15:293][143]LogMaterial: Warning: Material /Game/MadeContent/Textures/GrassMat.GrassMat needed to have new flag set bUsedWithStaticLighting !
+[2019.08.28-21.46.15:294][143]LogMaterial: Warning: Material /Engine/Transient.GrassMat needed to have new flag set bUsedWithStaticLighting !
+[2019.08.28-21.46.15:296][143]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.15:314][143]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.15:348][143]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.25:065][724]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.08.28-21.46.25:065][724]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.46.25:065][724]MaterialEditorStats: Texture samplers: 5/16
+[2019.08.28-21.46.25:065][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.46.44:021][449]LogSavePackage: Save=230.15ms
+[2019.08.28-21.46.44:021][449]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/DemoMap_Auto3E3483CF943A6D987B9E074A40F27D404.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/Autosaves/Game/Maps/DemoMap_Auto3.umap'
+[2019.08.28-21.46.44:028][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/Autosaves/Game/Maps/DemoMap_Auto3.umap
+[2019.08.28-21.46.44:031][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DemoMap' took 0.367
+[2019.08.28-21.46.44:031][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.367
+[2019.08.28-21.46.44:043][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MadeContent/Textures/GrassMat] ([1] browsable assets)...
+[2019.08.28-21.46.44:043][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/MadeContent/Textures/GrassMat]
+[2019.08.28-21.46.44:071][449]LogSavePackage: Save=17.86ms
+[2019.08.28-21.46.44:071][449]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/GrassMat_Auto3097EBF3C48B5251DC2714DA50C709C53.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/Autosaves/Game/MadeContent/Textures/GrassMat_Auto3.uasset'
+[2019.08.28-21.46.44:074][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/Autosaves/Game/MadeContent/Textures/GrassMat_Auto3.uasset
+[2019.08.28-21.46.44:074][449]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.08.28-21.46.44:607][491]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.08.28-21.46.52:987][370]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.54:542][497]LogMaterialEditor: Saving and Compiling material GrassMat
+[2019.08.28-21.46.55:386][497]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.55:438][497]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.55:490][497]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.55:528][497]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.46.55:631][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GrassMat, compiling. 
+[2019.08.28-21.46.56:633][497]TextureStreamingBuild: Display: Compiling optional shaders took 1.012 seconds.
+[2019.08.28-21.47.00:270][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MadeContent/Textures/GrassMat" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset" SILENT=true
+[2019.08.28-21.47.00:317][497]LogSavePackage: Save=40.14ms
+[2019.08.28-21.47.00:317][497]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/GrassMat357C5C854620202CC94386A520DE7F17.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset'
+[2019.08.28-21.47.00:330][497]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset
+[2019.08.28-21.47.00:358][497]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.47.00:358][497]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.47.00:358][497]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.47.00:358][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.47.41:360][771]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.47.41:536][772]LogSlate: Took 0.051557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.28-21.47.43:374][956]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.47.44:956][ 87]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.47.44:956][ 87]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.47.44:956][ 87]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.47.44:956][ 87]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.48.30:986][169]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.08.28-21.48.31:030][169]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.08.28-21.48.31:157][169]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.08.28-21.48.31:215][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.48.31:225][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.08.28-21.48.31:233][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.08.28-21.48.31:239][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2019.08.28-21.48.31:244][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.08.28-21.48.31:249][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2019.08.28-21.48.31:254][169]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.08.28-21.48.35:577][414]MaterialEditorStats: Base pass shader: 165 instructions
+[2019.08.28-21.48.35:578][414]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.48.35:578][414]MaterialEditorStats: Texture samplers: 7/16
+[2019.08.28-21.48.35:578][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.48.47:952][507]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.08.28-21.48.48:005][507]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.08.28-21.48.48:149][507]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2019.08.28-21.48.48:212][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2019.08.28-21.48.48:221][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2019.08.28-21.48.48:234][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2019.08.28-21.48.48:246][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_9, compiling. 
+[2019.08.28-21.48.48:260][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2019.08.28-21.48.48:272][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2019.08.28-21.48.48:281][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2019.08.28-21.48.48:292][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2019.08.28-21.48.48:300][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2019.08.28-21.48.48:309][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_8, compiling. 
+[2019.08.28-21.48.52:214][726]MaterialEditorStats: Base pass shader: 152 instructions
+[2019.08.28-21.48.52:214][726]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.48.52:214][726]MaterialEditorStats: Texture samplers: 7/16
+[2019.08.28-21.48.52:214][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.49.07:149][258]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.49.08:921][417]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.49.08:921][417]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.49.08:921][417]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.49.08:921][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.49.15:370][187]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.49.15:389][187]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.28-21.49.17:000][331]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.49.17:000][331]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.49.17:000][331]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.49.17:000][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.49.38:484][884]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.49.40:668][ 96]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.49.40:668][ 96]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.49.40:668][ 96]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.49.40:668][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.49.42:170][274]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.49.43:712][414]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.49.43:712][414]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.49.43:712][414]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.49.43:712][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.49.45:051][572]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.49.45:070][572]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.28-21.49.46:662][714]MaterialEditorStats: Base pass shader: 127 instructions
+[2019.08.28-21.49.46:662][714]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.49.46:662][714]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.49.46:662][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.49.59:225][212]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.50.00:809][368]MaterialEditorStats: Base pass shader: 128 instructions
+[2019.08.28-21.50.00:810][368]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.50.00:810][368]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.28-21.50.00:810][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.50.06:004][991]LogMaterialEditor: Saving and Compiling material GrassMat
+[2019.08.28-21.50.08:450][991]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.50.08:503][991]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.50.08:566][991]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.50.08:611][991]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.50.08:713][991]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GrassMat, compiling. 
+[2019.08.28-21.50.09:743][991]TextureStreamingBuild: Display: Compiling optional shaders took 1.041 seconds.
+[2019.08.28-21.50.13:325][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MadeContent/Textures/GrassMat" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset" SILENT=true
+[2019.08.28-21.50.13:362][991]LogSavePackage: Save=25.48ms
+[2019.08.28-21.50.13:362][991]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/GrassMat5778660646FC04FC3D6FF195F3564206.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset'
+[2019.08.28-21.50.13:369][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset
+[2019.08.28-21.52.55:291][111]AssetReimport: New page: Outstanding source content changes 1:52:55 PM
+[2019.08.28-21.52.55:337][111]LogEditorFactories: Performing atomic reimport of [C:/Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_N.png]
+[2019.08.28-21.52.55:347][111]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_N.png)
+[2019.08.28-21.52.56:025][111]LogEditorFactories: -- imported successfully
+[2019.08.28-21.52.59:089][369]AssetReimport: Reimported asset Grass_N from C:/Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_N.png.
+[2019.08.28-21.52.59:089][369]AssetReimport: Warning: Can't move /Game/MadeContent/Textures/Grass_D to /Game/MadeContent/Textures/Grass_D - one already exists.
+[2019.08.28-21.53.10:797][575]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.53.10:816][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.53.13:063][768]MaterialEditorStats: Base pass shader: 129 instructions
+[2019.08.28-21.53.13:063][768]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.53.13:063][768]MaterialEditorStats: Texture samplers: 5/16
+[2019.08.28-21.53.13:063][768]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.53.21:653][788]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.53.21:671][788]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.53.23:314][933]MaterialEditorStats: Base pass shader: 129 instructions
+[2019.08.28-21.53.23:314][933]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.53.23:314][933]MaterialEditorStats: Texture samplers: 5/16
+[2019.08.28-21.53.23:314][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.53.26:802][347]LogMaterialEditor: Saving and Compiling material GrassMat
+[2019.08.28-21.53.27:531][347]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.53.27:583][347]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.53.27:646][347]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.53.27:689][347]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.53.27:807][347]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GrassMat, compiling. 
+[2019.08.28-21.53.29:026][347]TextureStreamingBuild: Display: Compiling optional shaders took 1.230 seconds.
+[2019.08.28-21.53.32:605][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MadeContent/Textures/GrassMat" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset" SILENT=true
+[2019.08.28-21.53.32:657][347]LogSavePackage: Save=31.52ms
+[2019.08.28-21.53.32:657][347]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/GrassMat45F1751246C99CCA0051B9A4D63E94DD.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset'
+[2019.08.28-21.53.32:664][347]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/GrassMat.uasset
+[2019.08.28-21.53.53:269][332]MapCheck: New page: Map Check
+[2019.08.28-21.53.53:292][332]Cmd: MAP REBUILD ALLVISIBLE
+[2019.08.28-21.53.53:293][332]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.08.28-21.53.53:382][332]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2019.08.28-21.53.53:388][332]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.08.28-21.53.53:606][332]TextureStreamingBuild: Display: Compiling optional shaders took 0.247 seconds.
+[2019.08.28-21.53.53:607][332]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.08.28-21.53.53:613][332]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2019.08.28-21.53.53:633][332]LightingResults: New page: Lighting Build - Aug 28, 2019, 1:53:53 PM
+[2019.08.28-21.53.53:724][332]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.08.28-21.53.53:759][332]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.08.28-21.53.53:759][332]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.08.28-21.53.53:764][332]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.08.28-21.53.53:764][332]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6936
+[2019.08.28-21.53.58:286][332]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.08.28-21.53.58:286][332]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.08.28-21.53.58:286][332]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.08.28-21.53.58:286][332]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.08.28-21.53.58:286][332]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.08.28-21.53.58:286][332]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.08.28-21.53.58:575][332]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.08.28-21.53.58:576][332]MapCheck: New page: DemoMap - Aug 28, 2019, 1:53:58 PM
+[2019.08.28-21.54.01:119][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,543.543ms to complete.
+[2019.08.28-21.54.01:142][332]LogEditorBuildUtils: Build time 0:07
+[2019.08.28-21.54.01:164][332]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_65, compiling. 
+[2019.08.28-21.54.01:171][332]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_65, compiling. 
+[2019.08.28-21.54.14:491][906]Job is a success!
+[2019.08.28-21.54.14:919][907]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:919][907]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2019.08.28-21.54.14:920][907]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 256X128)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2019.08.28-21.54.14:921][907]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X64)
+[2019.08.28-21.54.15:768][907]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X64)
+[2019.08.28-21.54.15:791][907]Lightmass on MT330D10: 9.68 sec total, 476 ms importing, 371 ms setup, 1.49 sec photons, 7.30 sec processing, 0 ms extra exporting [64/64 mappings]. Threads: 50.9 sec total, 33.8 sec processing.
+[2019.08.28-21.54.15:861][907]LogStaticLightingSystem: Illumination: 22.2 sec (219 ms encoding lightmaps, 842 ms encoding shadowmaps)
+[2019.08.28-21.54.15:861][907]LogStaticLightingSystem: Lightmap texture memory:  3.1 MB (3.1 MB streaming, 0.0 MB non-streaming), 40 textures
+[2019.08.28-21.54.15:861][907]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 20 textures
+[2019.08.28-21.54.16:304][907]DumpUnbuiltLightIteractions
+[2019.08.28-21.54.16:305][907]Lights with unbuilt interactions: 0
+[2019.08.28-21.54.16:305][907]
+[2019.08.28-21.54.16:305][907]Primitives with unbuilt interactions: 0
+[2019.08.28-21.54.16:318][908]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.08.28-21.54.16:318][908]MapCheck: New page: DemoMap - Aug 28, 2019, 1:54:16 PM
+[2019.08.28-21.54.16:474][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 156.542ms to complete.
+[2019.08.28-21.55.19:226][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoMap" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.28-21.55.19:499][821]LogSavePackage: Save=201.14ms
+[2019.08.28-21.55.19:499][821]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/DemoMap46330B9F4445FE3EBA86F395C7512BD6.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap.umap'
+[2019.08.28-21.55.19:505][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap.umap
+[2019.08.28-21.55.19:536][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoMap_BuiltData" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap_BuiltData.uasset" SILENT=true
+[2019.08.28-21.55.19:797][821]LogSavePackage: Save=197.93ms
+[2019.08.28-21.55.19:797][821]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/DemoMap_BuiltDataD61199214B03F643332FFE9DC4AC0BA7.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap_BuiltData.uasset'
+[2019.08.28-21.55.19:803][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap_BuiltData.uasset
+[2019.08.28-21.56.37:114][227]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.08.28-21.56.37:198][227]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.08.28-21.56.37:241][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.28-21.56.37:246][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.56.39:476][420]MaterialEditorStats: Base pass shader: 129 instructions
+[2019.08.28-21.56.39:476][420]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.56.39:476][420]MaterialEditorStats: Texture samplers: 5/16
+[2019.08.28-21.56.39:476][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.57.09:420][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.08.28-21.57.43:992][736]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.08.28-21.57.46:071][925]MaterialEditorStats: Base pass shader: 129 instructions
+[2019.08.28-21.57.46:071][925]MaterialEditorStats: Vertex shader: 87 instructions
+[2019.08.28-21.57.46:071][925]MaterialEditorStats: Texture samplers: 5/16
+[2019.08.28-21.57.46:071][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.28-21.57.48:816][249]LogMaterialEditor: Saving and Compiling material GrassMat
+[2019.08.28-21.57.49:545][249]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.08.28-21.57.49:597][249]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.57.49:662][249]LogMaterial: Missing cached shader map for material GrassMat, compiling. 
+[2019.08.28-21.57.49:714][249]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GrassMat, compiling. 
+[2019.08.28-21.57.50:934][249]TextureStreamingBuild: Display: Compiling optional shaders took 1.227 seconds.
+[2019.08.28-21.57.54:023][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MadeContent/Materials/GrassMat" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Materials/GrassMat.uasset" SILENT=true
+[2019.08.28-21.57.54:047][249]LogSavePackage: Save=18.52ms
+[2019.08.28-21.57.54:047][249]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/GrassMat5AD4EBB94E6BCCBC60E71F94AD41CDE6.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Materials/GrassMat.uasset'
+[2019.08.28-21.57.54:052][249]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Materials/GrassMat.uasset
+[2019.08.28-21.58.02:419][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoMap" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.28-21.58.02:640][148]LogSavePackage: Save=199.87ms
+[2019.08.28-21.58.02:640][148]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/DemoMap16D188C241790EE232DBA5BA16D396CC.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap.umap'
+[2019.08.28-21.58.02:643][148]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap.umap
+[2019.08.28-21.58.02:678][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DemoMap_BuiltData" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap_BuiltData.uasset" SILENT=true
+[2019.08.28-21.58.02:880][148]LogSavePackage: Save=196.64ms
+[2019.08.28-21.58.02:880][148]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/DemoMap_BuiltDataB822645F48E42BF9EA13D8BF207B7C65.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap_BuiltData.uasset'
+[2019.08.28-21.58.02:883][148]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/Maps/DemoMap_BuiltData.uasset
+[2019.08.28-21.58.10:505][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MadeContent/Textures/Grass_N" FILE="../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_N.uasset" SILENT=true
+[2019.08.28-21.58.10:830][332]LogSavePackage: Save=272.97ms
+[2019.08.28-21.58.10:830][332]LogSavePackage: Moving '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Saved/Grass_N25D8CDCD48ED3463F5DF9EB3C62D8080.tmp' to '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_N.uasset'
+[2019.08.28-21.58.10:836][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/MadeContent/Textures/Grass_N.uasset
+[2019.08.28-21.58.11:199][333]Cmd: QUIT_EDITOR
+[2019.08.28-21.58.11:800][333]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.28-21.58.11:821][333]LogExit: Preparing to exit.
+[2019.08.28-21.58.12:935][333]LogDirectoryWatcher: A directory notification for 'C:/Users/Public/Public Projects/DemoCornholeWilliam/Content/' was aborted.
+[2019.08.28-21.58.13:080][333]LogExit: Editor shut down
+[2019.08.28-21.58.13:128][333]LogExit: Transaction tracking system shut down
+[2019.08.28-21.58.13:349][333]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.08.28-21.58.13:349][333]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Public/Public Projects/DemoCornholeWilliam/Content/' was aborted.
+[2019.08.28-21.58.13:349][333]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.08.28-21.58.13:349][333]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.08.28-21.58.13:349][333]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.08.28-21.58.13:597][333]LogExit: Object subsystem successfully closed.
+[2019.08.28-21.58.13:653][333]LogD3D11RHI: Shutdown
+[2019.08.28-21.58.13:653][333]LogD3D11RHI: CleanupD3DDevice
+[2019.08.28-21.58.13:680][333]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.28-21.58.13:727][333]LogModuleManager: Shutting down and abandoning module MaterialEditor (540)
+[2019.08.28-21.58.13:727][333]LogModuleManager: Shutting down and abandoning module TextureEditor (538)
+[2019.08.28-21.58.13:727][333]LogModuleManager: Shutting down and abandoning module NewLevelDialog (536)
+[2019.08.28-21.58.13:727][333]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2019.08.28-21.58.13:733][333]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2019.08.28-21.58.13:733][333]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2019.08.28-21.58.13:733][333]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2019.08.28-21.58.13:733][333]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2019.08.28-21.58.13:733][333]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2019.08.28-21.58.13:743][333]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2019.08.28-21.58.13:743][333]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2019.08.28-21.58.13:743][333]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2019.08.28-21.58.13:743][333]LogDirectoryWatcher: A directory notification for 'C:/Users/Public/Public Projects/DemoCornholeWilliam/Content/Collections/' was aborted.
+[2019.08.28-21.58.13:743][333]LogDirectoryWatcher: A directory notification for 'C:/Users/Public/Public Projects/DemoCornholeWilliam/Content/Developers/delo5/Collections/' was aborted.
+[2019.08.28-21.58.13:743][333]LogDirectoryWatcher: A directory notification for 'C:/Users/Public/Public Projects/DemoCornholeWilliam/Saved/Collections/' was aborted.
+[2019.08.28-21.58.13:743][333]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2019.08.28-21.58.13:743][333]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2019.08.28-21.58.13:743][333]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2019.08.28-21.58.13:744][333]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module Media (477)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2019.08.28-21.58.13:745][333]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2019.08.28-21.58.13:746][333]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2019.08.28-21.58.13:746][333]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2019.08.28-21.58.13:746][333]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2019.08.28-21.58.13:746][333]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2019.08.28-21.58.13:746][333]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2019.08.28-21.58.13:986][333]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2019.08.28-21.58.13:986][333]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2019.08.28-21.58.13:987][333]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2019.08.28-21.58.13:988][333]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2019.08.28-21.58.14:044][333]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2019.08.28-21.58.14:045][333]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2019.08.28-21.58.14:045][333]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2019.08.28-21.58.14:046][333]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2019.08.28-21.58.14:047][333]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2019.08.28-21.58.14:128][333]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2019.08.28-21.58.14:128][333]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2019.08.28-21.58.14:128][333]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2019.08.28-21.58.14:129][333]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2019.08.28-21.58.14:130][333]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.08.28-21.58.14:132][333]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.08.28-21.58.14:132][333]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.08.28-21.58.14:132][333]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2019.08.28-21.58.14:133][333]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2019.08.28-21.58.14:234][333]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2019.08.28-21.58.14:335][333]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2019.08.28-21.58.14:335][333]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2019.08.28-21.58.14:335][333]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2019.08.28-21.58.14:335][333]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2019.08.28-21.58.14:335][333]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2019.08.28-21.58.14:335][333]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2019.08.28-21.58.14:338][333]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2019.08.28-21.58.14:339][333]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2019.08.28-21.58.14:340][333]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2019.08.28-21.58.14:340][333]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2019.08.28-21.58.14:340][333]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2019.08.28-21.58.14:340][333]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2019.08.28-21.58.14:340][333]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2019.08.28-21.58.14:340][333]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2019.08.28-21.58.14:345][333]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2019.08.28-21.58.14:346][333]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2019.08.28-21.58.14:354][333]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2019.08.28-21.58.14:362][333]LogDerivedDataCache: Shutdown
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2019.08.28-21.58.14:362][333]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2019.08.28-21.58.14:363][333]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.08.28-21.58.14:364][333]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.08.28-21.58.14:364][333]LogOnline: Display: Unloading online subsystem: NULL
+[2019.08.28-21.58.14:365][333]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.08.28-21.58.14:365][333]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.08.28-21.58.14:365][333]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.28-21.58.14:365][333]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B39466C3B-47F7-FEC6-1B11-9FB55037343B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=49efdd5f4c3acb90be9f068bb0c75aa2%7C52db00745d254fea8bab12cfc87e4316%7Ce413b1eb-509d-454e-92d3-a437e2215fea&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.28-21.58.14:393][333]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.08.28-21.58.14:396][333]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.08.28-21.58.14:396][333]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.08.28-21.58.14:396][333]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.08.28-21.58.14:396][333]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.08.28-21.58.14:396][333]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.08.28-21.58.14:396][333]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.08.28-21.58.14:397][333]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.08.28-21.58.14:403][333]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.08.28-21.58.14:404][333]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.08.28-21.58.14:407][333]LogExit: Exiting.
+[2019.08.28-21.58.14:432][333]Log file closed, 08/28/19 17:58:14
